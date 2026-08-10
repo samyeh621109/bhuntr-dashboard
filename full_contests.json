@@ -195,7 +195,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -265,7 +265,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, vocationalHighSchool, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -287,7 +287,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, university, seniorHighSchool, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, seniorHighSchool, twoYearJuniorCollege)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -358,7 +358,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, university, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, seniorHighSchool)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -402,7 +402,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -539,7 +539,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -635,7 +635,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -657,7 +657,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -685,6 +685,29 @@
     }
   },
   {
+    "id": 82594,
+    "alias": "49xu3nssy2rccuixjl",
+    "title": "2026 放手去DRAW 貼圖大賽",
+    "url": "https://bhuntr.com/tw/competitions/49xu3nssy2rccuixjl",
+    "prize_total": 390000,
+    "submit_end_time": 1792511999,
+    "categories": [
+      "視覺設計",
+      "工業設計",
+      "建築空間"
+    ],
+    "qualifications": {
+      "label": "學生與社會人士皆可",
+      "student_eligible": true,
+      "social_eligible": true,
+      "elementary_eligible": true,
+      "elementary_label": "國小生可參加",
+      "reasons": [
+        "API 設定為不限身份 (none=True)，國小生可報名"
+      ]
+    }
+  },
+  {
     "id": 82288,
     "alias": "gw9g0y08rf2s8lzohe",
     "title": "115年苗栗市青年歌唱舞蹈大賽",
@@ -703,7 +726,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -822,7 +845,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, fiveYearJuniorCollege, seniorHighSchool)"
+        "API 設定符合特定學生限制 (fiveYearJuniorCollege, vocationalHighSchool, seniorHighSchool)"
       ]
     }
   },
@@ -935,7 +958,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, juniorHighSchool, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (juniorHighSchool, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, seniorHighSchool, twoYearJuniorCollege)"
       ]
     }
   },
@@ -1045,7 +1068,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -1071,7 +1094,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, fiveYearJuniorCollege, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, university, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -1095,7 +1118,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -1117,7 +1140,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -1257,7 +1280,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -1329,7 +1352,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, seniorHighSchool, twoYearJuniorCollege)"
       ]
     }
   },
@@ -1353,6 +1376,32 @@
       "elementary_label": "國小生可參加",
       "reasons": [
         "API 設定為不限身份 (none=True)，國小生可報名"
+      ]
+    }
+  },
+  {
+    "id": 82590,
+    "alias": "nhiza3eh72nf36gm68",
+    "title": "115 年度臺北市交通安全創意教學教材徵選計畫",
+    "url": "https://bhuntr.com/tw/competitions/nhiza3eh72nf36gm68",
+    "prize_total": 132000,
+    "submit_end_time": 1789142399,
+    "categories": [
+      "類別-116",
+      "綜合創新",
+      "建築空間"
+    ],
+    "qualifications": {
+      "label": "學生與社會人士皆可",
+      "student_eligible": true,
+      "social_eligible": true,
+      "elementary_eligible": true,
+      "elementary_label": "國小生可參加",
+      "reasons": [
+        "API 設定符合特定學生限制 (juniorHighSchool, vocationalHighSchool, seniorHighSchool, elementarySchool)",
+        "API 設定開放國小生/幼兒 (elementarySchool=True)",
+        "API 設定允許非學生身分 (nonStudent=True)",
+        "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
     }
   },
@@ -1415,7 +1464,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -1466,6 +1515,29 @@
       "reasons": [
         "API 設定為不限身份 (none=True)，國小生可報名",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
+      ]
+    }
+  },
+  {
+    "id": 82600,
+    "alias": "1k1b5y2luxdonjbx8u",
+    "title": "115 年大專校院職涯輔導教案徵選",
+    "url": "https://bhuntr.com/tw/competitions/1k1b5y2luxdonjbx8u",
+    "prize_total": 100000,
+    "submit_end_time": 1789030800,
+    "categories": [
+      "類別-116",
+      "企劃行銷",
+      "音樂創作"
+    ],
+    "qualifications": {
+      "label": "僅限學生資格",
+      "student_eligible": true,
+      "social_eligible": false,
+      "elementary_eligible": false,
+      "elementary_label": "非國小生限定",
+      "reasons": [
+        "內文提及學生相關參賽關鍵字"
       ]
     }
   },
@@ -1688,8 +1760,32 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, fiveYearJuniorCollege, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, fiveYearJuniorCollege, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
+        "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
+      ]
+    }
+  },
+  {
+    "id": 82588,
+    "alias": "j01676f9v0nfb8jpkt",
+    "title": "115年宜蘭縣資源回收創意教具徵選活動",
+    "url": "https://bhuntr.com/tw/competitions/j01676f9v0nfb8jpkt",
+    "prize_total": 70000,
+    "submit_end_time": 1792141200,
+    "categories": [
+      "視覺設計",
+      "時尚造型",
+      "企劃行銷"
+    ],
+    "qualifications": {
+      "label": "學生與社會人士皆可",
+      "student_eligible": true,
+      "social_eligible": true,
+      "elementary_eligible": true,
+      "elementary_label": "國小生可參加",
+      "reasons": [
+        "API 設定為不限身份 (none=True)，國小生可報名",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
     }
@@ -1757,7 +1853,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -1828,7 +1924,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)"
       ]
     }
   },
@@ -1870,7 +1966,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -1918,7 +2014,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, elementarySchool, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -1968,7 +2064,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -2016,7 +2112,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, university, seniorHighSchool, fourYearInstituteOfTechnology)"
+        "API 設定符合特定學生限制 (fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, seniorHighSchool, twoYearJuniorCollege)"
       ]
     }
   },
@@ -2037,7 +2133,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "內文提及社會人士/不限對象關鍵字"
       ]
     }
@@ -2082,7 +2178,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, juniorHighSchool, seniorHighSchool)"
+        "API 設定符合特定學生限制 (juniorHighSchool, vocationalHighSchool, seniorHighSchool)"
       ]
     }
   },
@@ -2383,30 +2479,6 @@
     }
   },
   {
-    "id": 82262,
-    "alias": "xe4i48msx3r8nk9qep",
-    "title": "2026 第四屆「自然與人類」國際攝影大賽（Nature and Humans）",
-    "url": "https://bhuntr.com/tw/competitions/xe4i48msx3r8nk9qep",
-    "prize_total": 17000,
-    "submit_end_time": 1790632740,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "遊戲動畫"
-    ],
-    "qualifications": {
-      "label": "學生與社會人士皆可",
-      "student_eligible": true,
-      "social_eligible": true,
-      "elementary_eligible": true,
-      "elementary_label": "國小生可參加",
-      "reasons": [
-        "API 設定為不限身份 (none=True)，國小生可報名",
-        "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
-      ]
-    }
-  },
-  {
     "id": 82322,
     "alias": "gnqri90vwvjid2qzxj",
     "title": "第一屆避難所吟遊詩人大賽",
@@ -2469,7 +2541,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, twoYearInstituteOfTechnology, twoYearJuniorCollege, elementarySchool, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, graduateSchoolDoctoralProgramPartTime, university, seniorHighSchool, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, vocationalHighSchool, graduateSchoolMastersProgramPartTime, seniorHighSchool, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -2541,7 +2613,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "文字簡介包含『僅限學生/限在校生』關鍵字"
       ]
@@ -2566,7 +2638,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -2684,7 +2756,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -2823,7 +2895,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -2917,7 +2989,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -3016,52 +3088,6 @@
     }
   },
   {
-    "id": 82261,
-    "alias": "p62zonu64zc6e3ebr4",
-    "title": "2026 露西獎學金計劃（Lucie Scholarship Program）",
-    "url": "https://bhuntr.com/tw/competitions/p62zonu64zc6e3ebr4",
-    "prize_total": 8000,
-    "submit_end_time": 1790783999,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "企劃行銷"
-    ],
-    "qualifications": {
-      "label": "僅限社會人士資格",
-      "student_eligible": false,
-      "social_eligible": true,
-      "elementary_eligible": false,
-      "elementary_label": "非國小生限定",
-      "reasons": [
-        "API 設定允許非學生身分 (nonStudent=True)"
-      ]
-    }
-  },
-  {
-    "id": 82259,
-    "alias": "x89naazjyznrz35fqh",
-    "title": "第24屆 Eurostars Grand Marina 攝影獎 Josep Juanpere",
-    "url": "https://bhuntr.com/tw/competitions/x89naazjyznrz35fqh",
-    "prize_total": 8000,
-    "submit_end_time": 1792533599,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "遊戲動畫"
-    ],
-    "qualifications": {
-      "label": "僅限社會人士資格",
-      "student_eligible": false,
-      "social_eligible": true,
-      "elementary_eligible": false,
-      "elementary_label": "非國小生限定",
-      "reasons": [
-        "API 設定允許非學生身分 (nonStudent=True)"
-      ]
-    }
-  },
-  {
     "id": 82524,
     "alias": "tj0g4bu93wdmbhasd3",
     "title": "2026 Lucie Foundation Photo Book Prize",
@@ -3103,7 +3129,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -3315,29 +3341,6 @@
     }
   },
   {
-    "id": 82263,
-    "alias": "0mrt8tkxmyasvd3sm7",
-    "title": "2026 首屆 Americana Photo Awards 美國攝影獎",
-    "url": "https://bhuntr.com/tw/competitions/0mrt8tkxmyasvd3sm7",
-    "prize_total": 3000,
-    "submit_end_time": 1790351999,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "視覺設計"
-    ],
-    "qualifications": {
-      "label": "學生與社會人士皆可",
-      "student_eligible": true,
-      "social_eligible": true,
-      "elementary_eligible": true,
-      "elementary_label": "國小生可參加",
-      "reasons": [
-        "API 設定為不限身份 (none=True)，國小生可報名"
-      ]
-    }
-  },
-  {
     "id": 82555,
     "alias": "v10t1x0vk3o1apzxa8",
     "title": "2026–2027 多倫多波斯花園獨立副宅國際建築設計競賽",
@@ -3356,7 +3359,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -3495,7 +3498,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -3617,52 +3620,6 @@
     }
   },
   {
-    "id": 82260,
-    "alias": "alv8nmimq36o7hns26",
-    "title": "《Anthology》雜誌 選集封面藝術比賽",
-    "url": "https://bhuntr.com/tw/competitions/alv8nmimq36o7hns26",
-    "prize_total": 500,
-    "submit_end_time": 1793462399,
-    "categories": [
-      "工業設計",
-      "藝術創作",
-      "建築空間"
-    ],
-    "qualifications": {
-      "label": "學生與社會人士皆可",
-      "student_eligible": true,
-      "social_eligible": true,
-      "elementary_eligible": true,
-      "elementary_label": "國小生可參加",
-      "reasons": [
-        "API 設定為不限身份 (none=True)，國小生可報名"
-      ]
-    }
-  },
-  {
-    "id": 82258,
-    "alias": "gkz2iwmth5zf7p6jwk",
-    "title": "《Anthology》雜誌 選集攝影比賽",
-    "url": "https://bhuntr.com/tw/competitions/gkz2iwmth5zf7p6jwk",
-    "prize_total": 500,
-    "submit_end_time": 1796083199,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "視覺設計"
-    ],
-    "qualifications": {
-      "label": "學生與社會人士皆可",
-      "student_eligible": true,
-      "social_eligible": true,
-      "elementary_eligible": true,
-      "elementary_label": "國小生可參加",
-      "reasons": [
-        "API 設定為不限身份 (none=True)，國小生可報名"
-      ]
-    }
-  },
-  {
     "id": 82565,
     "alias": "csq82eqh2a7agpc7vp",
     "title": "The Image Flow 夏季本季最佳照片攝影比賽主題：你不是認真的吧",
@@ -3778,6 +3735,75 @@
     }
   },
   {
+    "id": 82598,
+    "alias": "2p5jaz31dvnozzsncj",
+    "title": "115學年度全國高級中等學校小論文寫作比賽",
+    "url": "https://bhuntr.com/tw/competitions/2p5jaz31dvnozzsncj",
+    "prize_total": 0,
+    "submit_end_time": 1792036800,
+    "categories": [
+      "音樂創作",
+      "類別-114",
+      "類別-115"
+    ],
+    "qualifications": {
+      "label": "僅限學生資格",
+      "student_eligible": true,
+      "social_eligible": false,
+      "elementary_eligible": false,
+      "elementary_label": "非國小生限定",
+      "reasons": [
+        "API 設定符合特定學生限制 (vocationalHighSchool, seniorHighSchool)"
+      ]
+    }
+  },
+  {
+    "id": 82593,
+    "alias": "d603kvv62gck79ih49",
+    "title": "115年度彰化友善店家徵選",
+    "url": "https://bhuntr.com/tw/competitions/d603kvv62gck79ih49",
+    "prize_total": 0,
+    "submit_end_time": 1788191999,
+    "categories": [
+      "類別-116",
+      "類別-123",
+      "類別-125"
+    ],
+    "qualifications": {
+      "label": "學生與社會人士皆可",
+      "student_eligible": true,
+      "social_eligible": true,
+      "elementary_eligible": true,
+      "elementary_label": "國小生可參加",
+      "reasons": [
+        "未偵測到排他性限制，預設開放大眾、學生與國小生報名"
+      ]
+    }
+  },
+  {
+    "id": 82589,
+    "alias": "xeldsc2oqohbcvl2l6",
+    "title": "2026年「翻譯擂台」詩歌翻譯競賽",
+    "url": "https://bhuntr.com/tw/competitions/xeldsc2oqohbcvl2l6",
+    "prize_total": 0,
+    "submit_end_time": 1788303540,
+    "categories": [
+      "音樂創作",
+      "類別-114",
+      "類別-125"
+    ],
+    "qualifications": {
+      "label": "學生與社會人士皆可",
+      "student_eligible": true,
+      "social_eligible": true,
+      "elementary_eligible": true,
+      "elementary_label": "國小生可參加",
+      "reasons": [
+        "API 設定為不限身份 (none=True)，國小生可報名"
+      ]
+    }
+  },
+  {
     "id": 82568,
     "alias": "3hr9kxm3gkyvdszypg",
     "title": "CREATURES 三人聯展 攝影創作徵件",
@@ -3866,7 +3892,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -4052,7 +4078,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, twoYearJuniorCollege, fiveYearJuniorCollege, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, twoYearJuniorCollege, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -4309,7 +4335,7 @@
       "elementary_eligible": false,
       "elementary_label": "非國小生限定",
       "reasons": [
-        "API 設定符合特定學生限制 (twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, graduateSchoolDoctoralProgramPartTime, university, fourYearInstituteOfTechnology)",
+        "API 設定符合特定學生限制 (graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, fourYearInstituteOfTechnology, twoYearInstituteOfTechnology, graduateSchoolMastersProgramPartTime, graduateSchoolDoctoralProgramPartTime)",
         "API 設定允許非學生身分 (nonStudent=True)"
       ]
     }
@@ -4470,7 +4496,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -4519,7 +4545,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -4544,7 +4570,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -4569,7 +4595,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, juniorHighSchool, seniorHighSchool, preschool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, seniorHighSchool, elementarySchool, preschool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
       ]
@@ -4734,7 +4760,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, juniorHighSchool, university, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, university, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -4760,7 +4786,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (elementarySchool, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, university, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, university, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "API 設定允許非學生身分 (nonStudent=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字"
@@ -4832,7 +4858,7 @@
       "elementary_eligible": true,
       "elementary_label": "國小生可參加",
       "reasons": [
-        "API 設定符合特定學生限制 (vocationalHighSchool, elementarySchool, fiveYearJuniorCollege, graduateSchoolDoctoralProgram, graduateSchoolMastersProgram, juniorHighSchool, university, seniorHighSchool)",
+        "API 設定符合特定學生限制 (juniorHighSchool, graduateSchoolMastersProgram, graduateSchoolDoctoralProgram, fiveYearJuniorCollege, university, vocationalHighSchool, seniorHighSchool, elementarySchool)",
         "API 設定開放國小生/幼兒 (elementarySchool=True)",
         "內文包含『國小/兒童/低中高年級』相關對象關鍵字",
         "文字簡介包含『僅限學生/限在校生』關鍵字"
@@ -5529,29 +5555,6 @@
       "elementary_label": "非國小生限定",
       "reasons": [
         "API 設定允許非學生身分 (nonStudent=True)"
-      ]
-    }
-  },
-  {
-    "id": 82257,
-    "alias": "o5pp8woyhh1287webo",
-    "title": "L'Œil de la Photographie 讀者作品集徵選",
-    "url": "https://bhuntr.com/tw/competitions/o5pp8woyhh1287webo",
-    "prize_total": 0,
-    "submit_end_time": 1798732740,
-    "categories": [
-      "藝術創作",
-      "攝影影音",
-      "企劃行銷"
-    ],
-    "qualifications": {
-      "label": "學生與社會人士皆可",
-      "student_eligible": true,
-      "social_eligible": true,
-      "elementary_eligible": true,
-      "elementary_label": "國小生可參加",
-      "reasons": [
-        "API 設定為不限身份 (none=True)，國小生可報名"
       ]
     }
   }
